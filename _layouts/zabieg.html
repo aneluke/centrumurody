@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>{{ page:title }}</title>
+<title>{{ page.title }}</title>
 <body>
     <div class="page-content">
-      <h2>{{ page:title }}</h2>
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.subtitle }}</h3>
       <div class="wrapper">
         {{ content }}
       </div>
+      {% if page.img  %}
+      <div class="img"><img src="/galeria/{{ page.img }}"></div>
+      {% endif %}
+
+      {% if page.price  %}
+      <div class="price">Cena: {{ page.price }} pln</div>
+      {% endif %}
     </div>
 </body>
 </html>

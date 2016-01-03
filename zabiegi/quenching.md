@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: MOISTURE QUENCHING PURITY RITUAL Zabieg oczyszczająco-nawilżający
+title: MOISTURE QUENCHING PURITY RITUAL
+subtitle: Zabieg oczyszczająco-nawilżający
 price: 140
 img: k23.jpg
 ---

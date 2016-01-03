@@ -1,10 +1,10 @@
-﻿---
+---
 layout: zabieg
 title: PEELING MIGDAŁOWY
 price: od 70
 img: k11.jpg
 ---
-Peeling migdałowy jest zabiegiem regulująco-regenerującym na twarz, szyję i dekolt do każdego rodzaju cery, również tej najbardziej delikatnej. Przeznaczony dla osób dbających o młody i zdrowy wygląd skóry, a w okresie letnim o równomierną i aksamitną opaleniznę. <br>
+Peeling migdałowy jest zabiegiem regulująco-regenerującym na twarz, szyję i dekolt do każdego rodzaju cery, również tej najbardziej delikatnej. Przeznaczony dla osób dbających o młody i zdrowy wygląd skóry, a w okresie letnim o równomierną i aksamitną opaleniznę.
 M-Peel to aktywny peeling migdałowy polecany dla każdego typu skóry ze szczególnymi uwzględnieniem skór wrażliwych, nietolerujących innych kwasów AHA.
 
 Idealny do pielęgnacji skóry narażony na fotostarzenie, w przypadku nieregularnych przebarwień i zmian trądzikowych. Regeneruje skórę, zwiększając syntezę włókien elastycznych, działa depigmentująco nawet na plamy soczewicowate.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ALGOMEGA NUTRITION TREATMENT
 layout: zabieg
 ---

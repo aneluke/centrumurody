@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: HYALURONIC MARINE TREATMENT wygładzanie i wypełnienie zmarszczek
+title: HYALURONIC MARINE TREATMENT
+subtitle: wygładzanie i wypełnienie zmarszczek
 price: 200
 img: k22.jpg
 ---

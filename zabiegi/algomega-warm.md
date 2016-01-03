@@ -1,4 +1,4 @@
-﻿---
+---
 layout: zabieg
 title: ALGOMEGA WARM TREATMENT
 price: 180

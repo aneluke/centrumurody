@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: PEELING KAWITACYJNY bezbolesne oczyszczanie
+title: PEELING KAWITACYJNY
+subtitle: bezbolesne oczyszczanie
 price: 140
 img: k2.jpg
 ---

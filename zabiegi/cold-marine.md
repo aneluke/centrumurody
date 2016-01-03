@@ -1,29 +1,38 @@
-﻿---
-layout: zabieg
-title: OLD MARINE PROGRAM zabieg dla skór wrażliwych z rozszerzonymi naczynkami
-price: 140
-img: k25.jpg
 ---
-Skóra wrażliwa to skóra o nadmiernej reaktywności na bodźce zewnętrzne. Pieczenie, ogólne zaczerwienienie, swędzenie i podrażnienie - to zaledwie kilka z wielu oznak dyskomfortu odczuwanego przez osoby ze skórą wrażliwą. Firma Thalgo opracowała program pielęgnacji, który ma za zadanie ukoić skórę, złagodzić jej podrażnienia i uszczelnić rozszerzone naczynia krwionośne. Naturalne aktywne składniki, otrzymane dzięki wykorzystaniu nowoczesnych technologii, redukują powierzchowną wrażliwość skóry i zmniejszają reakcje komórek skóry na agresywne czynniki.
+layout: zabieg
+title: THALGODERMYL
+subtitle: intensywny zabieg przeciwtrądzikowy
+price: 140
+---
+Thalgodermyl jest zabiegiem leczniczym dla osób z trądzikiem, aby mogły odzyskać zdrową i czystą skórę. Wszystkie testy udowodniły, że działa on przeciwłojotokowo, przeciwzapalnie i przeciwbakteryjnie. Thalgodermyl pozwala osiągnąć błyskawiczne efekty.
 
-Wskazania: skóra naczyniowa, cienka, wrażliwa, skłonna do zaczerwienień i podrażnień, trądzik różowaty.
+Wskazania: zabieg przeznaczony do pielęgnacji skóry trądzikowej. 
 
-Cel: zabieg ma na celu wzmocnić i uszczelnić ściany naczyń krwionośnych, złagodzić podrażnienia, zmniejszy  wrażliwość skóry na czynniki zewnętrzne poprzez wzmocnienie funkcji immunologicznych komórek Langerhansa.
+Cel: regulacja pracy gruczołów łojowych, zwężenie porów skóry, zapobieganie tworzeniu się zaskórników i stanów zapalnych, poprawa nawilżenia oraz kolorytu skóry. 
 
-Przeciwwskazania: nadwrażliwość na składniki zawarte w preparatach, temperatura poniżej 5°C, powierzchowne uszkodzenia naskórka (mikrourazy), skóra trądzikowa.
+Przeciwwskazania: uczulenie na składniki zawarte w preparatach. 
 
 Aktywne składniki:
 
-- Hydrosensine (Abyssine® 657 + Calmosensine®) - kompleks stworzony na bazie morskichmikroorganizmów żyjących w Oceanie Spokojnym na głębokości ponad 3000metrów. Podnosi próg tolerancji skóry poprzez zmniejszenie wrażliwości powierzchni naskórka i redukcję reakcji skóry na czynniki drażniące
-- Sensiline® - wyciąg z brunatnego lnu, który ogranicza penetrację drażniących składników, zmniejsza negatywne reakcje skóry (zaczerwienienie, pieczenie, swędzenie, wypryski, dyskomfort) na agresywne czynniki zewnętrzne
-- Oczar wirgilijski i Alfa Bisabolol - zwęża naczynia krwionośne, koi, łagodzi i zmiękcza skórę
-- Ruscus - nawilża, łagodzi
-- Structurine® - wyciąg z białego łubinu - przywraca barierę ochronną
-- Sun'Ytol® - chroni przed szkodliwym promieniowaniem UV
-- Mentol - stymuluje mikrokrążenie, odświeża
-- Kompleks Algomega - odbudowuje poziom lipidów w skórze
-- Olejek z dzikiej róży - regeneruje
-- Wosk esencjonalny z narcyza - wygładza i koi
-- Shea Butter - odżywia
+- Controlamine - kompleks stabilizujący pracę gruczołów łojowych oparty na wyciągu z alg i Laminaria Digitata
+- Cytobiol® Bardane - kompleks witaminy B8, wyciągu z łopianu i soli cynku o działaniu dezynfekującym i lekko wysuszającym
+- Pam Extracts - wyciąg z pestek grejpfruta
+- Ac. Net® - kompleks wyciągów roślinnych o silnym działaniu przeciwtrądzikowym i przeciwzapalnym
+- Olejki esencjonalne z cytryny, rumianku, lawendy
+- Ekstrakty roślinne z żeń-szenia werbeny, arniki, skrzypu, brzozy
+- Alginat
 
-Czas zabiegu: 45 minut
+Czas trwania: 60 min.
+
+Częstotliwość: 1-3 razy w tygodniu, aż do uzyskania efektu czystej skóry
+
+Pielęgnacja domowa:
+
+- Marine Foaming Mist lub
+- Marine Algae Cleansing Bar
+- Pure Freschness Tonic Lotion
+- Reviving Marine Mist 
+- Thalgodermyl Serum
+- Ultra-Matte Fluid 
+- Iodalg
+- Ocea Draine

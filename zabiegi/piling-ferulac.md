@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: Ferulac Peel Clasic i Ferulac Peel Plus Nowa generacja nanopilingów chemicznych
+title: Ferulac Peel Clasic i Ferulac Peel Plus
+subtitle: Nowa generacja nanopilingów chemicznych zabieg przeciwtrądzikowy
 price: od 250
 img: k22.jpg
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: zabieg
 title: COSMELAN
 price: 1300

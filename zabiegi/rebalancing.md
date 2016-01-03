@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: BALANCING TREATMENT zabieg balansujący z mikronizowaną algą
+title: BALANCING TREATMENT
+subtitle: zabieg balansujący z mikronizowaną algą
 price: 120
 img: k24.jpg
 ---

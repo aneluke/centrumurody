@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: SILICIUM MARINE TREATMENT wypełnienie zmarszczek i efekt liftingu
+title: SILICIUM MARINE TREATMENT
+subtitle: wypełnienie zmarszczek i efekt liftingu
 price: 240
 img: k24.jpg
 ---

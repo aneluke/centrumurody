@@ -1,6 +1,7 @@
-﻿---
+---
 layout: zabieg
-title: FALE RADIOWE RF Ujędrnianie, modelowanie konturu twarzy
+title: FALE RADIOWE RF
+subtitle: Ujędrnianie, modelowanie konturu twarzy
 price: 200
 img: c18.jpg
 ---

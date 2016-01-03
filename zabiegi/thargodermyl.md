@@ -1,6 +1,7 @@
 ---
 layout: zabieg
-title: THALGODERMYL - intensywny zabieg przeciwtrądzikowy
+title: THALGODERMYL
+subtitle: intensywny zabieg przeciwtrądzikowy
 price: 140
 ---
 Thalgodermyl jest zabiegiem leczniczym dla osób z trądzikiem, aby mogły odzyskać zdrową i czystą skórę. Wszystkie testy udowodniły, że działa on przeciwłojotokowo, przeciwzapalnie i przeciwbakteryjnie. Thalgodermyl pozwala osiągnąć błyskawiczne efekty.
@@ -20,10 +21,10 @@ Aktywne składniki:
 - Olejki esencjonalne z cytryny, rumianku, lawendy
 - Ekstrakty roślinne z żeń-szenia werbeny, arniki, skrzypu, brzozy
 - Alginat
-	
+
 Czas trwania: 60 min.
 
-Częstotliwość: 1 - 3 razy w tygodniu, aż do uzyskania efektu czystej skóry
+Częstotliwość: 1-3 razy w tygodniu, aż do uzyskania efektu czystej skóry
 
 Pielęgnacja domowa:
 

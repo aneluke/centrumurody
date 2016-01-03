@@ -1,4 +1,4 @@
-﻿---
+---
 layout: zabieg
 title: Mikrodermabrazja
 price: 100
