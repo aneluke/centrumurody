@@ -1,11 +1,10 @@
 ---
 layout: zabieg
 title: ALGOMEGA WARM TREATMENT
+subtitle: regenerujący zabieg dla skóry suchej i odwodnionej
 price: 180
 img: k25.jpg
 ---
-###regenerujący zabieg dla skóry suchej i odwodnionej
-	
 Odwodnienie skóry spowodowane jest uszkodzeniem płaszcza hydrolipidowego. Dehydratacja jest przyczyną nadmiernego przesuszania się skóry, co powoduje dyskomfort,napięcie, pękanie, pieczenie i powstawanie drobnych mikrourazów. Rozwiązaniem Thalgo jest linia oparta na bazie kompleksu Algomega, który tworzą nienasycone kwasy tłuszczowe.
 
 Wskazania: skóra sucha, odwodniona, wrażliwa.
