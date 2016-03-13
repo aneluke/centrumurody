@@ -2,7 +2,7 @@
 layout: zabieg
 title: FALE RADIOWE RF
 subtitle: Ujędrnianie, modelowanie konturu twarzy
-price: 200
+price: od 100
 img: c18.jpg
 ---
 Metoda wykorzystująca fale radiowe RF wysokiej częstotliwości. Jest stosowana w celu wytworzenia głębokiego nagrzewania wewnątrz tkanek bez nadmiernego wzrostu temperatury powierzchni skóry i tkanki podskórnej.
@@ -58,4 +58,4 @@ PRZECIWWSKAZANIA:
 - złote nici
                                                                                     
 Czas zabiegu: zależny od partii twarzy, ciała
-Czas: 30 min                                             
+Czas:  od 15 min                                             
