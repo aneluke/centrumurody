@@ -12,7 +12,7 @@ Nasz salon proponuje Państwu makijaż na każdą okazję, zgodnie z typem urody
 
 Cena:
 
-makijaż dzienny	- 65 pln
+makijaż dzienny	- 60 pln
 makijaż wieczorowy - 70 pln
 makijaż po zabiegu - 20 pln
 makijaż ślubny - 70 pln
