@@ -1,7 +1,7 @@
 ---
 layout: zabieg
 title: Przekłuwanie uszu
-price: 40
+price: 60
 img: /kosmetyka/k28.jpg
 ---
 Przekłucie płatków uszu wykonywane jest profesjonalnym pistoletem zaciskowym.
