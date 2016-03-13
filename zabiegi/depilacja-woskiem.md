@@ -13,8 +13,8 @@ W Instytucie przeprowadza się depilację przy użyciu produktów Depileve opart
 Częstotliwość zabiegu: efekt utrzymuje się przez około 3-6 tyg
 
 Cena: 
-do kolan 40 zł
+do kolan 60 zł
 całość 100 zł 
-bikini od 30 zł
+bikini od 40 zł 
 wąsik 12 zł
 pachy 30 zł
