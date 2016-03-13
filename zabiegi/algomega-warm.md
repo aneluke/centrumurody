@@ -1,8 +1,8 @@
 ---
 layout: zabieg
-title: ALGOMEGA WARM TREATMENT
-subtitle: regenerujący zabieg dla skóry suchej i odwodnionej
-price: 180
+title: INTENSIVE NUTRION RITUAL
+subtitle: regenerujący zabieg dla kobiet i mżczyzn w każdym wieku 
+price: 200
 img: k25.jpg
 ---
 Odwodnienie skóry spowodowane jest uszkodzeniem płaszcza hydrolipidowego. Dehydratacja jest przyczyną nadmiernego przesuszania się skóry, co powoduje dyskomfort,napięcie, pękanie, pieczenie i powstawanie drobnych mikrourazów. Rozwiązaniem Thalgo jest linia oparta na bazie kompleksu Algomega, który tworzą nienasycone kwasy tłuszczowe.
@@ -22,15 +22,4 @@ Aktywne składniki:
 - Olej z ostu mlecznego
 
 Czas trwania: 60 minut
-Częstotliwość: seria 6 zabiegów - 1 w tygodniu, 12 zabiegów - 2 w tygodniu lub zabieg jednorazowy
-
-Pielęgnacja domowa:
-
-- Cocooning Cleansing Milk
-- Cocooning Tonic Lotion
-- Extreme Comfort Cream
-- Delicious Comfort Cream
-- Melt-Away Comfort Mask
-- Exceptional Eyes lub
-- Revitalising Eye Contour Cream
-- Ocea Skin Moisturising
+Częstotliwość: seria 6 zabiegów - 1 w tygodniu, 12 zabiegów - 2 w tygodniu lub zabieg jednorazowo
