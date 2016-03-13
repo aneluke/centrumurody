@@ -1,7 +1,7 @@
 ---
 layout: zabieg
 title: PEELING MIGDAŁOWY
-price: od 70
+price: 100
 img: k11.jpg
 ---
 Peeling migdałowy jest zabiegiem regulująco-regenerującym na twarz, szyję i dekolt do każdego rodzaju cery, również tej najbardziej delikatnej. Przeznaczony dla osób dbających o młody i zdrowy wygląd skóry, a w okresie letnim o równomierną i aksamitną opaleniznę.
