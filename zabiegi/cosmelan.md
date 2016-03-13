@@ -1,7 +1,7 @@
 ---
 layout: zabieg
 title: COSMELAN
-price: 1300
+price: 1200
 img: k26.jpg
 ---
 Przeznaczenie:
