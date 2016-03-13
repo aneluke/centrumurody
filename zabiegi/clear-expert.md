@@ -2,7 +2,7 @@
 layout: zabieg
 title: Clear Expert Treatment
 subtitle: zabieg rozjaśniająco - odmładzający z prowitaminą C
-price: 240
+price: 260
 img: k27.jpg
 ---
 Środowisko zewnętrzne i wewnętrzne (zmiany hormonalne, upływ czasu, zmiany pór roku, słońce, zanieczyszczenie powietrza) sprawia, że skóra traci blask, jędrność i świeżość. Nie jest już tak elastyczna, promienna i jasna. Pod wpływem inspiracji „etno" został stworzony wyjątkowy program rozświetlający i odmładzający na bazie kompleksu Clear Expert, który przywraca naturalna promienność i jasność skórze, pomaga zmniejszyć lub wyeliminować przebarwienia.
