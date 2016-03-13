@@ -1,8 +1,8 @@
 ---
-title: ALGOMEGA NUTRITION TREATMENT
+title: BEAUTY NUTRITION RYTUAL
 layout: zabieg
 ---
-###Zabieg odżywczy dla skóry suchej, odwodnionej
+###Zabieg  dla skóry suchej, odwodnionej
 	
 Zabieg intensywnie odżywia skórę, daje jej uczucie niezrównanego komfortu. Kompleks Algomega bogaty w niezbędne nienasycone kwasy tłuszczowe pomaga w regulacji nawilżenia skóry. Skóra staje się aksamitnie gładka, jest zregenerowana i miękka.
 
@@ -28,12 +28,3 @@ Aktywne składniki:
 Czas trwania: 60 minut
 Częstotliwość: seria 6-12 zabiegów - 1-2 w tygodniulub zabieg jednorazowy
 
-Pielęgnacja domowa:
-
-- Cocooning Cleansing Milk
-- Cocooning Tonic Lotion
-- Extreme Comfort Cream
-- Delicious Comfort Cream
-- Melt-Away Comfort Mask
-- vitalising Eye Contour Cream
-- Ocea Skin Moisturising
