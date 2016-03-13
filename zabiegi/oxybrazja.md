@@ -2,7 +2,7 @@
 layout: zabieg
 title: OXYBRAZJA TLENOWA
 subtitle: złuszczanie, nawilżanie tlenem i extraktami wodnymi
-price: 60
+price: 40
 ---
 Oxybrazja inaczej oxyaquaabrazja to najbardziej odkrywcza metoda odmładzania i rewitalizacji skóry na rynku kosmetycznym. Wyzwala efekt naturalnej i samoistnej odbudowy oraz regOxybrazja przeznaczona jest dla każdego rodzaju skóry wszystkich tych osób, które chcą efektywnie pielęgnować skórę. Zabieg ten wykonywany jest „na mokro” i „na zimno”, dlatego polecany jest osobom o skórze naczyniowej i szczególnie wrażliwej. Daje przyjemne uczucie chłodu i ukojenia, które sprawdza się rewelacyjnie w upalne dni.
 
