@@ -1,7 +1,7 @@
 ---
 layout: zabieg
 title: Manicure
-price: 25
+price: od 30
 img: /dlonie/d1.jpg
 ---
 Piękne dłonie i paznokcie to nie przypadek, są wizytówką każdej kobiety i jednym z najbardziej widocznych atrybutów urody. Wygląd dłoni jest jak otwarta księga, która dostarcza informacji o naszym temperamencie, osobowości i stylu życia. 
@@ -15,5 +15,5 @@ Manicure biologiczny stosowany jest przy zadbanych dłoniach, z małą ilością
   
 Manicure tradycyjny:
 Polega na opiłowaniu i oczyszczeniu paznokci po skróceniu ich. Skórki usuwane są za pomocą cążek, a płytka pielęgnowana jest odżywkami
-
+wszystkie narzedzia wielorazowego uzytku sa sterylizowane w naszym autoklawie 
 Czas trwania zabiegu: 30 min.
