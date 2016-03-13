@@ -341,7 +341,7 @@ dlonie-stopy:
               <div class="panel-heading">{{ item.name }}</div>
               <div class="list-group">
                 {% for t in item.sub %} 
-                <a href="{{ t.url }}" class="list-group-item" data-toggle="modal" data-target="#myModal">{{ t.text }}</a>
+                <a href="{{ site.url }}{{ t.url }}" class="list-group-item" data-toggle="modal" data-target="#myModal">{{ t.text }}</a>
                 {% endfor %}
               </div>
             </div>
@@ -357,7 +357,7 @@ dlonie-stopy:
           <div class="panel-heading">{{ item.name }}</div>
           <div class="list-group">
             {% for t in item.sub %} 
-            <a href="{{ t.url }}" class="list-group-item">{{ t.text }}</a>
+            <a href="{{ site.url  }}{{ t.url }}" class="list-group-item">{{ t.text }}</a>
             {% endfor %}
           </div>
         </div>
@@ -368,7 +368,7 @@ dlonie-stopy:
         <div class="panel panel-default">
           <div class="list-group">
             {% for t in page.dlonie-stopy %}
-            <a href="{{ t.url }}" class="list-group-item">{{ t.text }}</a>
+            <a href="{{ site.url  }}{{ t.url }}" class="list-group-item">{{ t.text }}</a>
             {% endfor %}
           </div>
         </div>
