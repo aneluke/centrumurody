@@ -1,7 +1,7 @@
 ---
 layout: zabieg
-title: Antycellulitowy masaż bańką chińską
-img: /cialo/c18.jpg
+title: KARNETY PODARUNKOWE
+img: /BONUS/c18.jpg
 ---
 W CENTRUM URODY istnieje możliwość wykupienia PODARUNKU
 Eleganckie zaproszenie jest doskonałym prezentem na każda okazje: imieniny, urodziny walentynki, czy rocznicę ślubu.
