@@ -2,7 +2,7 @@
 layout: zabieg
 title: HYALURONIC MARINE TREATMENT
 subtitle: wygładzanie i wypełnienie zmarszczek
-price: 200
+price: 250
 img: k22.jpg
 ---
 Innowacyjny zabieg na bazie kwasu hialuronowego. Usuwa pierwsze oznaki starzenia się skóry i precyzyjnie wypełnia zmarszczki. Błyskawiczny efekt zapewniają mikrosfery z cząsteczkami kwasu hialuronowego. Przy kontakcie z wodą zwiększają swoją objętość i wypychają zmarszczki od wewnątrz, mają właściwości wychwytywania wody, a GAG, znajdujące się pomiędzy włóknami kolagenu i elastyny, ograniczają utratę wody. Hyaluronic Marine Treatment regeneruje skórę, redukuje ilość i głębokość zmarszczek, chroni komórki przed szkodliwym wpływem wolnych rodników, wzmacnia skórę oraz modeluje owal twarzy.ù
